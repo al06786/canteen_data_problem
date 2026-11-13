@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+train.csv
+validation.csv
+hidden_test.csv
+scorer.py
+baseline_solver.py
+problem_statement.md
